@@ -67,13 +67,3 @@ function deleteNode(event){
    event.target.parentNode.remove();
 
 }
-
-
-
-
-
-
-
-
-
-;
